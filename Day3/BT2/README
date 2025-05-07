@@ -1,0 +1,2 @@
+Tiến trình ban đầu sau khi exec được gọi là tiến trình đó sẽ thay thế hết tiến trình cũ bằng tiến trình mới không chạy tiến trình cũ nữa
+ở đây sẽ giữ nguyên PID, những biến môi trường
