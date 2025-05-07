@@ -1,0 +1,2 @@
+ Dữ liệu vẫn sẽ được ghi vào cuối file, dù đã seek về đầu file.
+Vì cờ O_APPEND khiến mỗi lần ghi (write()) sẽ tự động chuyển về cuối file, bỏ qua vị trí con trỏ hiện tại.
