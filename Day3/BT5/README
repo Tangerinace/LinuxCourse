@@ -1,5 +1,0 @@
-Zombie Process: Xuất hiện trong tiến trình bởi vì khi tiến trình con đã kết thúc những tiến trình cha chưa gọi để có thể lấy thông tin của tiến trình con
-gọi là zombie bởi vì khi tiến trình con đã kết thúc thực thi nhưng chương trình vẫn chiếm trong hệ thống
-(cách xử lý là sử dụng hàm wait để bắt tiến trình cha đợi tiến trình con)
-
-Oprphan Process(Naruto): Là khi tiến trình cha đã kết thúc những tiến trình con vẫn còn chạy
